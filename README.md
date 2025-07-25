@@ -1,0 +1,2 @@
+# Multi-Language-Learning-Bot-with-Real-Time-Answering-on-Raspberry-Pi
+An AI-powered, multi-language learning bot using a Raspberry Pi, integrated with a microphone and speaker for real-time interaction. The bot:  Recognizes speech  Translates between languages  Responds intelligently using a trained ML model  Offers a React-based frontend  Leverages Kafka for data streaming  Uses Docker for deployment
